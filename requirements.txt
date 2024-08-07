@@ -1,0 +1,4 @@
+crewai # for making agents
+langchain-google-genai #google gemini model
+load_dotenv #load dotenv model
+crewai_tools #for the tools of the agents
