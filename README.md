@@ -8,11 +8,11 @@ YouTube Script Writing Agent:
 
   
 Steps:
-  Set up Crew AI.
-  Configure agents.
-  Define tasks.
-  Form a crew with a sequential process.
-  Execute the crew to create intelligent scripts.
+  1. Set up Crew AI.
+  2. Configure agents.
+  3. Define tasks.
+  4. Form a crew with a sequential process.
+  5. Execute the crew to create intelligent scripts.
   
 Feel free to explore the provided GitHub repositories for detailed code examples and further experimentation. Good luck! 😊🚀
 
